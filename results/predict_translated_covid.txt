@@ -1,0 +1,145 @@
+increases^expression	 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	 TMPRSS2	 0.718958854675293
+increases^expression	 Thioacetamide	 TMPRSS2	 0.7180938124656677
+increases^expression	 bis(4-hydroxyphenyl)sulfone	 TMPRSS2	 0.7163675427436829
+increases^expression	 Copper	 CD9	 0.7151159048080444
+affects^cotreatment	 Phenylmercuric Acetate	 TMPRSS2	 0.7133721113204956
+increases^expression	 Amphetamine	 CD9	 0.7129690647125244
+affects^cotreatment	 Estradiol	 TMPRSS2	 0.7115013599395752
+increases^expression	 Choline	 TMPRSS2	 0.7087178826332092
+decreases^expression	 2-amino-2-methyl-1-propanol	 TMPRSS2	 0.7070789337158203
+increases^expression	 Antirheumatic Agents	 DPP4	 0.7058805823326111
+increases^expression	 Cyclosporine	 CD9	 0.7049477696418762
+increases^expression	 dorsomorphin	 CD9	 0.7037393450737
+affects^cotreatment	 bicalutamide	 TMPRSS2	 0.7018831968307495
+decreases^expression	 Diethylstilbestrol	 CD9	 0.7018217444419861
+affects^expression	 Progesterone	 TMPRSS2	 0.7016980051994324
+increases^expression	 Ethanol	 CD9	 0.7013956904411316
+decreases^expression	 abrine	 CD9	 0.7012152075767517
+decreases^expression	 Methylcholanthrene	 CD9	 0.7012152075767517
+affects^cotreatment	 Valproic Acid	 TMPRSS2	 0.7006208896636963
+increases^expression	 Nickel	 TIPARP	 0.6999194622039795
+affects^cotreatment	 2,5,2',5'-tetrachlorobiphenyl	 TMPRSS2	 0.6996927261352539
+decreases^expression	 Tretinoin	 CD9	 0.698598325252533
+affects^cotreatment	 Sodium Glutamate	 TMPRSS2	 0.6974990963935852
+increases^expression	 Tamoxifen	 TIPARP	 0.697364866733551
+affects^expression	 Tamoxifen	 TIPARP	 0.6972315907478333
+decreases^expression	 Diuron	 CD9	 0.6966726779937744
+increases^expression	 nickel sulfate	 DPP4	 0.6943392157554626
+affects^expression	 bisphenol A	 TMPRSS2	 0.6934955716133118
+decreases^expression	 Atrazine	 ACE2	 0.6932116150856018
+affects^expression	 Tetradecanoylphorbol Acetate	 CD9	 0.6926358938217163
+decreases^expression	 tert-Butylhydroperoxide	 CD9	 0.6925782561302185
+increases^expression	 Vancomycin	 DPP4	 0.6916095614433289
+increases^expression	 Atrazine	 TIPARP	 0.6910430788993835
+decreases^expression	 cobaltous chloride	 CD9	 0.6902691721916199
+increases^expression	 Tretinoin	 TIPARP	 0.6896520853042603
+increases^expression	 Rotenone	 CD9	 0.6892485022544861
+decreases^reaction	 Tetrachlorodibenzodioxin	 TIPARP	 0.6884909272193909
+increases^expression	 Gentamicins	 TIPARP	 0.6874172687530518
+increases^expression	 Rosiglitazone	 TIPARP	 0.687326192855835
+increases^expression	 Ethinyl Estradiol	 TMPRSS4	 0.6859370470046997
+increases^reaction	 Estradiol	 TMPRSS2	 0.6854829788208008
+affects^expression	 Cadmium Chloride	 TIPARP	 0.6839603185653687
+decreases^reaction	 Carbon Tetrachloride	 TIPARP	 0.6815211772918701
+increases^expression	 Dihydrotestosterone	 DPP4	 0.6792605519294739
+increases^reaction	 Genistein	 CD9	 0.6783363819122314
+decreases^reaction	 Metribolone	 TMPRSS2	 0.6776365637779236
+increases^expression	 Gasoline	 TIPARP	 0.6768196821212769
+decreases^reaction	 Dexamethasone	 TIPARP	 0.6765586137771606
+affects^cotreatment	 Okadaic Acid	 CD9	 0.6764639019966125
+affects^cotreatment	 Methylnitronitrosoguanidine	 CD9	 0.6764639019966125
+affects^expression	 Aflatoxin B1	 TMPRSS2	 0.6761459708213806
+affects^cotreatment	 Succimer	 TMPRSS4	 0.6753597259521484
+increases^expression	 1,4-bis(2-(3,5-dichloropyridyloxy))benzene	 TMPRSS2	 0.6751003861427307
+affects^cotreatment	 2,2',3',4,4',5-hexachlorobiphenyl	 TMPRSS2	 0.6739814877510071
+increases^reaction	 pirinixic acid	 CD9	 0.6725994348526001
+decreases^expression	 bisphenol A	 ACE2	 0.6712058782577515
+affects^cotreatment	 1-Butanol	 CD9	 0.6694754958152771
+decreases^reaction	 Bleomycin	 ACE2	 0.6675863265991211
+decreases^reaction	 merbarone	 TMPRSS2	 0.6672821640968323
+decreases^reaction	 Dapsone	 TMPRSS2	 0.6672821640968323
+decreases^reaction	 Nicotine	 CD9	 0.6653294563293457
+decreases^reaction	 Telmisartan	 ACE2	 0.6648262739181519
+affects^expression	 Tetrachlorodibenzodioxin	 TMPRSS11A	 0.6647912859916687
+decreases^reaction	 Particulate Matter	 ACE2	 0.6627267599105835
+decreases^reaction	 Fluorouracil	 ACE2	 0.6607215404510498
+decreases^reaction	 alpha-naphthoflavone	 CD9	 0.6589329242706299
+decreases^reaction	 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	 DPP4	 0.6573367118835449
+decreases^expression	 Indomethacin	 CD9	 0.6569281816482544
+decreases^reaction	 Olmesartan Medoxomil	 ACE2	 0.655595064163208
+decreases^reaction	 Tacrolimus	 DPP4	 0.6549002528190613
+increases^expression	 trichostatin A	 DPP4	 0.6537337303161621
+decreases^expression	 pirinixic acid	 DPP4	 0.6533665657043457
+affects^expression	 Thioacetamide	 DPP4	 0.6528502702713013
+decreases^reaction	 Dexamethasone	 TMPRSS2	 0.6527381539344788
+decreases^expression	 Nickel	 DPP4	 0.6488867998123169
+increases^reaction	 NCP-2454	 ACE2	 0.6483553051948547
+increases^reaction	 trandolapril	 ACE2	 0.6483553051948547
+decreases^expression	 Particulate Matter	 DPP4	 0.6474901437759399
+decreases^expression	 Streptozocin	 DPP4	 0.6470913887023926
+increases^expression	 Dexamethasone	 TIPARP	 0.6457946300506592
+decreases^expression	 propiconazole	 DPP4	 0.6452444791793823
+increases^reaction	 Benzo(a)pyrene	 TIPARP	 0.6450845003128052
+increases^reaction	 Doxorubicin	 DPP4	 0.644545316696167
+decreases^expression	 titanium dioxide	 DPP4	 0.643028199672699
+affects^expression	 Dietary Fats	 ACE2	 0.6423237323760986
+increases^reaction	 Tetrachlorodibenzodioxin	 TIPARP	 0.6419478058815002
+increases^activity	 pirinixic acid	 ACE2	 0.6398410797119141
+decreases^reaction	 Acetylcysteine	 TMPRSS2	 0.6388537883758545
+increases^reaction	 lactacystin	 TIPARP	 0.6372095346450806
+decreases^expression	 2,4,4'-trichlorobiphenyl	 TMPRSS11A	 0.6357893347740173
+affects^expression	 Genistein	 TMPRSS4	 0.6339525580406189
+affects^cotreatment	 Quercetin	 ACE2	 0.6312869787216187
+decreases^reaction	 Oxygen	 ACE2	 0.6308022737503052
+increases^activity	 Tetrachlorodibenzodioxin	 CD9	 0.6240047216415405
+decreases^expression	 Mifepristone	 TIPARP	 0.622459352016449
+increases^expression	 2,4-diaminotoluene	 TIPARP	 0.622459352016449
+increases^expression	 Neomycin	 ACE2	 0.622459352016449
+increases^expression	 Aldehydes	 TIPARP	 0.622459352016449
+increases^expression	 13-methylarachidonic acid	 ACE2	 0.622459352016449
+affects^expression	 4-amino-2,6-dinitrotoluene	 TIPARP	 0.622459352016449
+increases^expression	 Diclofenac	 CD9	 0.622459352016449
+increases^reaction	 10-decarbamoylmitomycin C	 ACE2	 0.622459352016449
+decreases^expression	 Troglitazone	 CD9	 0.622459352016449
+affects^cotreatment	 Trans Fatty Acids	 TMPRSS2	 0.622459352016449
+increases^expression	 dibenzofuran	 TIPARP	 0.622459352016449
+increases^expression	 mercuric bromide	 CD9	 0.622459352016449
+increases^activity	 Labetalol	 ACE2	 0.622459352016449
+affects^expression	 Mustard Gas	 DPP4	 0.622459352016449
+decreases^activity	 Sitagliptin Phosphate	 DPP4	 0.622459352016449
+affects^expression	 Amiodarone	 DPP4	 0.622459352016449
+decreases^expression	 ciprofibrate	 DPP4	 0.622459352016449
+increases^expression	 Chloroprene	 TIPARP	 0.622459352016449
+increases^expression	 candesartan cilexetil	 ACE2	 0.622459352016449
+decreases^activity	 1,2-naphthoquinone	 ACE2	 0.622459352016449
+decreases^expression	 tripterine	 TMPRSS2	 0.622459352016449
+increases^expression	 olmesartan	 ACE2	 0.622459352016449
+decreases^expression	 beta-hydroxy simvastatin acid	 DPP4	 0.622459352016449
+decreases^expression	 Ethyl Methanesulfonate	 DPP4	 0.622459352016449
+affects^expression	 dimethyl phthalate	 CD9	 0.622459352016449
+increases^expression	 Fadrozole	 ACE2	 0.622459352016449
+decreases^reaction	 1-(2-bromophenyl)-3-(7-cyano-3H-benzotriazol-4-yl)urea	 ACE2	 0.622459352016449
+decreases^activity	 bis(4-acetamidophenyl) 1-prolylpyrrolidine-2-phosphonate	 DPP4	 0.622459352016449
+decreases^expression	 perfluorooctanoic acid	 DPP4	 0.622459352016449
+increases^expression	 incobotulinumtoxinA	 DPP4	 0.622459352016449
+increases^expression	 erucylphospho-N,N,N-trimethylpropylammonium	 TIPARP	 0.622459352016449
+increases^expression	 benzyloxycarbonylleucyl-leucyl-leucine aldehyde	 TIPARP	 0.622459352016449
+decreases^expression	 Valsartan	 ACE2	 0.622459352016449
+decreases^reaction	 Valsartan	 ACE2	 0.622459352016449
+affects^cotreatment	 Magnetite Nanoparticles	 TIPARP	 0.6214936375617981
+affects^cotreatment	 Zinc	 TIPARP	 0.615155816078186
+affects^expression	 chromium hexavalent ion	 DPP4	 0.6134349703788757
+increases^expression	 2,2',4,4'-tetrabromodiphenyl ether	 TIPARP	 0.6043571829795837
+affects^cotreatment	 2,2',3',4,4',5-hexachlorobiphenyl	 TMPRSS11A	 0.6035991311073303
+affects^cotreatment	 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	 DPP4	 0.598228394985199
+affects^cotreatment	 epigallocatechin gallate	 DPP4	 0.5980234146118164
+affects^expression	 pirinixic acid	 DPP4	 0.596275806427002
+decreases^activity	 saxagliptin	 DPP4	 0.5923711061477661
+affects^cotreatment	 Topotecan	 DPP4	 0.5858842730522156
+affects^cotreatment	 Ovalbumin	 DPP4	 0.5858842730522156
+increases^activity	 Tacrolimus	 DPP4	 0.5856326818466187
+affects^expression	 Hydrogen Peroxide	 CD9	 0.5840667486190796
+affects^expression	 vinclozolin	 DPP4	 0.582271158695221
+decreases^activity	 Streptozocin	 DPP4	 0.5811299085617065
+affects^expression	 Ethinyl Estradiol	 DPP4	 0.5786236524581909
+affects^expression	 Tobacco Smoke Pollution	 DPP4	 0.5745469331741333
