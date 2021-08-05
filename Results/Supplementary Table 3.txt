@@ -1,0 +1,975 @@
+increases^secretion	candesartan cilexetil	TMPRSS4	0.730201662
+increases^secretion	montelukast	TMPRSS4	0.730170131
+increases^secretion	Indinavir	TMPRSS4	0.730065644
+increases^secretion	montelukast	TMPRSS11A	0.730038226
+increases^secretion	Dipyridamole	TMPRSS4	0.730013847
+affects^cotreatment	candesartan cilexetil	DPP4	0.73000747
+increases^secretion	montelukast	TIPARP	0.729986072
+increases^secretion	Indinavir	ACE2	0.729936481
+increases^secretion	Atazanavir Sulfate	TMPRSS11A	0.729936421
+affects^cotreatment	roxatidine acetate	TMPRSS4	0.729927301
+increases^sumoylation	roxatidine acetate	DPP4	0.729917705
+increases^sumoylation	candesartan cilexetil	TMPRSS2	0.729912698
+affects^cotreatment	roxatidine acetate	TMPRSS11A	0.729887903
+affects^cotreatment	candesartan cilexetil	ACE2	0.729869962
+increases^secretion	candesartan cilexetil	TMPRSS2	0.729864597
+increases^secretion	Disulfiram	ACE2	0.729864359
+increases^secretion	Dipyridamole	ACE2	0.729862988
+increases^sumoylation	candesartan cilexetil	CD9	0.729842722
+increases^secretion	Indinavir	CD9	0.729832232
+affects^cotreatment	Cimetidine	DPP4	0.729799688
+increases^sumoylation	roxatidine acetate	ACE2	0.729765713
+increases^sumoylation	roxatidine acetate	TMPRSS4	0.729736388
+increases^secretion	roxatidine acetate	CD9	0.729732394
+increases^secretion	roxatidine acetate	TIPARP	0.729728818
+increases^secretion	Omeprazole	ACE2	0.729724765
+increases^secretion	Atazanavir Sulfate	DPP4	0.729721069
+affects^cotreatment	Cimetidine	TIPARP	0.729704559
+affects^cotreatment	montelukast	DPP4	0.729692161
+increases^secretion	Disulfiram	DPP4	0.729637384
+increases^secretion	Atazanavir Sulfate	TMPRSS2	0.729632378
+affects^cotreatment	Atazanavir Sulfate	DPP4	0.729586303
+affects^cotreatment	Atazanavir Sulfate	TMPRSS4	0.729580462
+affects^cotreatment	montelukast	ACE2	0.729567945
+affects^cotreatment	Atazanavir Sulfate	CD9	0.729542255
+increases^secretion	Omeprazole	DPP4	0.729525924
+affects^cotreatment	Atazanavir Sulfate	TMPRSS11A	0.729521394
+affects^cotreatment	candesartan cilexetil	TMPRSS2	0.729491353
+increases^secretion	Cimetidine	CD9	0.729475379
+affects^cotreatment	Atazanavir Sulfate	ACE2	0.729433179
+affects^cotreatment	Dipyridamole	TMPRSS4	0.729358315
+increases^sumoylation	Omeprazole	TMPRSS2	0.729332387
+affects^cotreatment	Disulfiram	CD9	0.729268909
+affects^cotreatment	Indinavir	TMPRSS4	0.72926718
+affects^cotreatment	Cimetidine	TMPRSS2	0.729204714
+increases^sumoylation	Atazanavir Sulfate	TMPRSS11A	0.729200304
+increases^sumoylation	Atazanavir Sulfate	TMPRSS4	0.72918421
+affects^cotreatment	Disulfiram	TIPARP	0.729179382
+increases^sumoylation	Omeprazole	TMPRSS11A	0.729095161
+affects^cotreatment	montelukast	TMPRSS2	0.729068041
+increases^sumoylation	montelukast	CD9	0.728993893
+increases^sumoylation	montelukast	DPP4	0.728948116
+affects^splicing	roxatidine acetate	DPP4	0.728874743
+increases^sumoylation	Cimetidine	TMPRSS4	0.728867769
+increases^sumoylation	montelukast	ACE2	0.728864312
+increases^sumoylation	Dipyridamole	DPP4	0.728828788
+increases^sumoylation	Dipyridamole	TMPRSS11A	0.728791833
+increases^sumoylation	Disulfiram	TMPRSS2	0.728729427
+increases^sumoylation	Dipyridamole	ACE2	0.728722572
+increases^sumoylation	Dipyridamole	TMPRSS4	0.728701293
+increases^sumoylation	Disulfiram	CD9	0.728646457
+increases^sumoylation	Disulfiram	TMPRSS4	0.728538573
+affects^splicing	candesartan cilexetil	CD9	0.728527606
+affects^splicing	roxatidine acetate	TIPARP	0.728493631
+affects^splicing	roxatidine acetate	TMPRSS4	0.728436768
+affects^splicing	candesartan cilexetil	TMPRSS11A	0.728290319
+affects^splicing	Atazanavir Sulfate	DPP4	0.728200257
+affects^splicing	Atazanavir Sulfate	TMPRSS2	0.728167176
+decreases^reaction	Disulfiram	TMPRSS4	0.72815603
+affects^splicing	Omeprazole	DPP4	0.728007376
+affects^splicing	Omeprazole	CD9	0.727866232
+affects^splicing	montelukast	DPP4	0.727855921
+decreases^reaction	Indinavir	TMPRSS4	0.727842808
+decreases^reaction	Disulfiram	CD9	0.727777123
+affects^splicing	Atazanavir Sulfate	TMPRSS4	0.727759898
+affects^splicing	Cimetidine	TIPARP	0.727752864
+decreases^reaction	Omeprazole	ACE2	0.727747321
+decreases^reaction	Disulfiram	TMPRSS11A	0.727742136
+affects^splicing	Atazanavir Sulfate	ACE2	0.727677047
+decreases^reaction	candesartan cilexetil	TMPRSS2	0.72763437
+decreases^reaction	Atazanavir Sulfate	ACE2	0.727612436
+affects^splicing	Dipyridamole	TIPARP	0.727538526
+affects^splicing	Indinavir	TMPRSS2	0.727496862
+decreases^reaction	Indinavir	TMPRSS2	0.727489114
+affects^splicing	Indinavir	CD9	0.727410316
+increases^ubiquitination	roxatidine acetate	TMPRSS2	0.727398455
+decreases^reaction	Dipyridamole	CD9	0.727273107
+decreases^reaction	roxatidine acetate	TMPRSS11A	0.72726661
+increases^ubiquitination	candesartan cilexetil	TMPRSS2	0.727257371
+increases^ubiquitination	roxatidine acetate	CD9	0.727227807
+decreases^reaction	Cimetidine	TMPRSS4	0.727127671
+affects^splicing	Indinavir	TIPARP	0.727095604
+affects^splicing	Indinavir	TMPRSS11A	0.727057278
+decreases^reaction	candesartan cilexetil	TIPARP	0.727057159
+affects^splicing	Indinavir	TMPRSS4	0.727042675
+decreases^reaction	Indinavir	TIPARP	0.727034807
+increases^ubiquitination	roxatidine acetate	TMPRSS4	0.726973116
+decreases^reaction	Cimetidine	TMPRSS2	0.726925135
+increases^ubiquitination	candesartan cilexetil	TMPRSS4	0.726806879
+affects^splicing	Disulfiram	TMPRSS11A	0.726767957
+decreases^reaction	Cimetidine	CD9	0.726759851
+decreases^reaction	Cimetidine	TMPRSS11A	0.726701856
+decreases^reaction	Omeprazole	TIPARP	0.726691604
+increases^ubiquitination	candesartan cilexetil	TMPRSS11A	0.726518869
+increases^ubiquitination	Omeprazole	TIPARP	0.726180017
+decreases^reaction	Disulfiram	DPP4	0.726036727
+increases^ubiquitination	Cimetidine	TMPRSS2	0.726002157
+increases^ubiquitination	Atazanavir Sulfate	CD9	0.725981474
+increases^ubiquitination	montelukast	DPP4	0.72595799
+decreases^reaction	montelukast	DPP4	0.725925267
+increases^ubiquitination	Indinavir	DPP4	0.725811899
+increases^ubiquitination	Disulfiram	DPP4	0.725754857
+decreases^reaction	candesartan cilexetil	DPP4	0.725702822
+increases^ubiquitination	Atazanavir Sulfate	TMPRSS4	0.725613296
+increases^ubiquitination	Cimetidine	ACE2	0.725448489
+increases^ubiquitination	Omeprazole	TMPRSS11A	0.725368857
+increases^ubiquitination	Atazanavir Sulfate	TMPRSS11A	0.725268006
+increases^ubiquitination	Cimetidine	TMPRSS11A	0.725108802
+increases^ubiquitination	Dipyridamole	CD9	0.724536061
+increases^ubiquitination	Dipyridamole	ACE2	0.724173963
+increases^ubiquitination	Dipyridamole	TMPRSS4	0.72411257
+decreases^degradation	candesartan cilexetil	DPP4	0.721911967
+affects^activity	montelukast	TMPRSS2	0.721898496
+affects^activity	Indinavir	DPP4	0.721867561
+affects^activity	montelukast	ACE2	0.721770823
+affects^activity	Disulfiram	CD9	0.721737027
+affects^activity	Disulfiram	TMPRSS2	0.72171855
+affects^activity	candesartan cilexetil	TMPRSS2	0.721598327
+affects^activity	Omeprazole	TIPARP	0.721421897
+affects^activity	candesartan cilexetil	ACE2	0.721353889
+decreases^methylation	roxatidine acetate	DPP4	0.721343458
+affects^activity	Dipyridamole	CD9	0.72129631
+decreases^methylation	candesartan cilexetil	CD9	0.72128427
+affects^activity	Indinavir	TMPRSS2	0.721259832
+increases^methylation	roxatidine acetate	TMPRSS4	0.721256673
+decreases^degradation	montelukast	DPP4	0.721098363
+decreases^degradation	Dipyridamole	DPP4	0.721032321
+affects^activity	Indinavir	TMPRSS4	0.721025467
+decreases^degradation	roxatidine acetate	TMPRSS2	0.720914125
+increases^transport	candesartan cilexetil	TMPRSS4	0.720860422
+affects^reaction	candesartan cilexetil	DPP4	0.720857024
+affects^activity	montelukast	TMPRSS11A	0.720835268
+increases^methylation	candesartan cilexetil	ACE2	0.720717251
+increases^methylation	candesartan cilexetil	TMPRSS2	0.720669329
+increases^transport	candesartan cilexetil	CD9	0.720611751
+decreases^expression	Disulfiram	ACE2	0.720579803
+decreases^methylation	candesartan cilexetil	ACE2	0.720530689
+affects^activity	roxatidine acetate	CD9	0.720511436
+affects^activity	candesartan cilexetil	TMPRSS11A	0.720462561
+decreases^expression	roxatidine acetate	ACE2	0.720356643
+increases^methylation	montelukast	TMPRSS2	0.720341086
+increases^methylation	Indinavir	ACE2	0.720340729
+decreases^expression	Indinavir	ACE2	0.720273852
+increases^transport	roxatidine acetate	CD9	0.720257342
+affects^activity	roxatidine acetate	ACE2	0.720224321
+increases^transport	montelukast	ACE2	0.720190644
+decreases^cleavage	Indinavir	TMPRSS2	0.720126987
+increases^methylation	Dipyridamole	ACE2	0.720099211
+increases^sulfation	candesartan cilexetil	TMPRSS2	0.719980538
+decreases^degradation	roxatidine acetate	TMPRSS4	0.719980538
+increases^transport	Omeprazole	ACE2	0.719896615
+affects^binding	Disulfiram	ACE2	0.719886005
+affects^activity	Atazanavir Sulfate	CD9	0.719853699
+increases^methylation	Indinavir	DPP4	0.719843566
+affects^binding	roxatidine acetate	ACE2	0.719831824
+affects^binding	Dipyridamole	ACE2	0.719823062
+affects^activity	Omeprazole	TMPRSS11A	0.719810963
+decreases^degradation	Disulfiram	DPP4	0.719794571
+decreases^degradation	Indinavir	CD9	0.719766617
+decreases^expression	candesartan cilexetil	TMPRSS2	0.719732642
+decreases^expression	montelukast	TMPRSS4	0.719708443
+increases^transport	roxatidine acetate	TIPARP	0.719680965
+affects^binding	roxatidine acetate	CD9	0.719661653
+decreases^expression	Omeprazole	ACE2	0.719621658
+affects^activity	Atazanavir Sulfate	TMPRSS4	0.719574392
+decreases^expression	Dipyridamole	TMPRSS4	0.719531298
+increases^methylation	Indinavir	TMPRSS11A	0.719473898
+increases^transport	Omeprazole	TMPRSS4	0.719449043
+increases^methylation	Dipyridamole	DPP4	0.719399929
+affects^activity	Cimetidine	TIPARP	0.719388068
+affects^binding	Dipyridamole	CD9	0.719383538
+decreases^degradation	Omeprazole	CD9	0.719373822
+increases^methylation	Cimetidine	ACE2	0.719338119
+decreases^degradation	Cimetidine	TIPARP	0.71932596
+affects^secretion	montelukast	TMPRSS4	0.719300568
+decreases^degradation	Dipyridamole	ACE2	0.719274282
+increases^chemical synthesis	candesartan cilexetil	TMPRSS2	0.719225526
+decreases^methylation	montelukast	TMPRSS4	0.719208658
+increases^methylation	Cimetidine	TMPRSS4	0.719161749
+increases^methylation	Cimetidine	TMPRSS2	0.719158351
+decreases^degradation	Disulfiram	TIPARP	0.719145536
+decreases^degradation	Cimetidine	CD9	0.719131291
+increases^methylation	Omeprazole	ACE2	0.719127476
+affects^reaction	roxatidine acetate	TIPARP	0.719085813
+decreases^degradation	Atazanavir Sulfate	TIPARP	0.719074667
+increases^methylation	Omeprazole	TMPRSS4	0.719073653
+increases^sulfation	Omeprazole	CD9	0.719070315
+affects^binding	montelukast	CD9	0.719070077
+decreases^methylation	montelukast	CD9	0.71904701
+increases^chemical synthesis	candesartan cilexetil	DPP4	0.719002545
+decreases^expression	roxatidine acetate	CD9	0.718996644
+decreases^methylation	Disulfiram	TMPRSS4	0.718990207
+decreases^expression	roxatidine acetate	TMPRSS11A	0.718989551
+increases^transport	Atazanavir Sulfate	ACE2	0.718923986
+increases^methylation	Cimetidine	TIPARP	0.718917668
+increases^methylation	Atazanavir Sulfate	CD9	0.718912542
+increases^methylation	Omeprazole	TMPRSS2	0.718887568
+decreases^expression	montelukast	TIPARP	0.718885541
+decreases^methylation	Omeprazole	TMPRSS4	0.718867838
+decreases^expression	Dipyridamole	TMPRSS11A	0.718855381
+decreases^expression	Omeprazole	TMPRSS2	0.718853176
+affects^secretion	montelukast	TMPRSS11A	0.718840361
+decreases^methylation	Atazanavir Sulfate	CD9	0.718838096
+affects^reaction	candesartan cilexetil	TMPRSS11A	0.718834281
+decreases^degradation	Indinavir	ACE2	0.718828559
+decreases^expression	Disulfiram	CD9	0.718828499
+increases^sulfation	Omeprazole	TMPRSS2	0.718806028
+decreases^degradation	Disulfiram	CD9	0.718798101
+decreases^degradation	Atazanavir Sulfate	CD9	0.71878612
+increases^methylation	Omeprazole	TIPARP	0.718775153
+decreases^methylation	montelukast	TIPARP	0.718747973
+increases^sulfation	Omeprazole	TIPARP	0.718723416
+affects^secretion	Disulfiram	ACE2	0.718698382
+increases^sulfation	Cimetidine	CD9	0.718690872
+increases^transport	montelukast	TIPARP	0.718685567
+affects^binding	candesartan cilexetil	TMPRSS4	0.71867907
+increases^methylation	Disulfiram	TMPRSS2	0.718648553
+affects^binding	candesartan cilexetil	ACE2	0.718640447
+decreases^degradation	Cimetidine	TMPRSS11A	0.718525767
+affects^secretion	Disulfiram	TMPRSS4	0.718518376
+increases^methylation	Disulfiram	TIPARP	0.718504786
+affects^binding	Cimetidine	CD9	0.718503118
+increases^chemical synthesis	roxatidine acetate	TMPRSS2	0.718496144
+affects^binding	Cimetidine	TMPRSS4	0.718491971
+decreases^methylation	Disulfiram	DPP4	0.718490005
+increases^transport	Disulfiram	CD9	0.71847719
+increases^chemical synthesis	candesartan cilexetil	TMPRSS11A	0.718420625
+increases^chemical synthesis	candesartan cilexetil	TIPARP	0.718419373
+affects^secretion	roxatidine acetate	ACE2	0.718411148
+affects^binding	montelukast	TMPRSS2	0.718393266
+decreases^methylation	Atazanavir Sulfate	TIPARP	0.718377948
+decreases^degradation	Omeprazole	ACE2	0.718369544
+increases^transport	Cimetidine	CD9	0.718334079
+increases^transport	Dipyridamole	ACE2	0.718313813
+decreases^metabolic processing	roxatidine acetate	CD9	0.718297243
+increases^transport	Indinavir	ACE2	0.718279004
+increases^sulfation	Cimetidine	TMPRSS2	0.718256831
+affects^secretion	roxatidine acetate	CD9	0.718234181
+decreases^degradation	Omeprazole	TMPRSS4	0.718232751
+affects^secretion	Dipyridamole	CD9	0.718224645
+affects^secretion	Disulfiram	TMPRSS11A	0.718189478
+affects^binding	Omeprazole	TMPRSS4	0.718171299
+affects^binding	Dipyridamole	TIPARP	0.718164861
+decreases^expression	Omeprazole	TMPRSS11A	0.718140841
+affects^reaction	Atazanavir Sulfate	TMPRSS2	0.718127728
+decreases^cleavage	Indinavir	DPP4	0.718118429
+decreases^expression	Omeprazole	TIPARP	0.718086421
+increases^response to substance	Indinavir	TMPRSS4	0.718073428
+affects^binding	montelukast	TMPRSS11A	0.718025684
+decreases^expression	Cimetidine	CD9	0.717985272
+affects^secretion	Disulfiram	TMPRSS2	0.717979968
+decreases^methylation	Atazanavir Sulfate	TMPRSS11A	0.717973113
+affects^secretion	roxatidine acetate	TMPRSS11A	0.717958212
+decreases^cleavage	Indinavir	CD9	0.717927635
+affects^binding	Indinavir	TMPRSS4	0.717921376
+decreases^methylation	Atazanavir Sulfate	ACE2	0.717883885
+decreases^methylation	Dipyridamole	TMPRSS11A	0.717873931
+affects^secretion	roxatidine acetate	TMPRSS2	0.717797458
+increases^sulfation	montelukast	CD9	0.717778087
+increases^chemical synthesis	roxatidine acetate	TMPRSS4	0.717765808
+increases^transport	Disulfiram	TIPARP	0.717765093
+decreases^methylation	Cimetidine	TIPARP	0.717752218
+increases^sulfation	Indinavir	DPP4	0.717747509
+increases^localization	candesartan cilexetil	ACE2	0.717696309
+affects^binding	candesartan cilexetil	TMPRSS2	0.71769315
+decreases^degradation	Atazanavir Sulfate	TMPRSS4	0.717671216
+affects^reaction	Omeprazole	TIPARP	0.71766609
+affects^activity	Cimetidine	TMPRSS11A	0.717645586
+affects^reaction	Omeprazole	TMPRSS2	0.717637539
+increases^sulfation	Atazanavir Sulfate	TIPARP	0.717636883
+increases^glutathionylation	candesartan cilexetil	CD9	0.717631698
+decreases^expression	Atazanavir Sulfate	TMPRSS11A	0.717600286
+increases^transport	Dipyridamole	TMPRSS4	0.717548847
+decreases^expression	Atazanavir Sulfate	CD9	0.717536986
+decreases^methylation	Dipyridamole	TMPRSS2	0.717366636
+decreases^methylation	Disulfiram	TMPRSS2	0.717344344
+increases^sulfation	montelukast	TMPRSS2	0.71733278
+increases^transport	Dipyridamole	TMPRSS2	0.717302918
+affects^binding	Omeprazole	TMPRSS2	0.71729064
+increases^sulfation	Atazanavir Sulfate	TMPRSS11A	0.717263341
+increases^sulfation	Disulfiram	TMPRSS2	0.717249334
+decreases^metabolic processing	roxatidine acetate	ACE2	0.717239022
+decreases^methylation	Cimetidine	ACE2	0.717216074
+increases^glutathionylation	candesartan cilexetil	ACE2	0.717158198
+increases^sulfation	Dipyridamole	TIPARP	0.717122138
+increases^localization	montelukast	ACE2	0.717120647
+affects^secretion	Atazanavir Sulfate	TMPRSS4	0.717120111
+increases^sulfation	Dipyridamole	TMPRSS2	0.717112124
+decreases^methylation	Indinavir	DPP4	0.717103243
+affects^binding	Cimetidine	TIPARP	0.717092097
+decreases^expression	candesartan cilexetil	DPP4	0.7170856
+decreases^metabolic processing	roxatidine acetate	TMPRSS4	0.717082739
+increases^import	Disulfiram	DPP4	0.717066824
+affects^reaction	Cimetidine	TMPRSS4	0.717059433
+affects^reaction	Indinavir	DPP4	0.717007935
+affects^secretion	Indinavir	TIPARP	0.716960073
+increases^sulfation	Disulfiram	TMPRSS11A	0.716912806
+affects^reaction	Cimetidine	CD9	0.716887653
+decreases^response to substance	Cimetidine	DPP4	0.716881692
+increases^glutathionylation	roxatidine acetate	TMPRSS2	0.716854572
+decreases^methylation	Indinavir	TIPARP	0.716837287
+increases^glutathionylation	Cimetidine	CD9	0.716794789
+affects^secretion	Cimetidine	ACE2	0.716750145
+increases^transport	Disulfiram	DPP4	0.716734171
+affects^reaction	Omeprazole	TMPRSS11A	0.716666281
+affects^secretion	Cimetidine	CD9	0.7166453
+affects^reaction	Cimetidine	TMPRSS11A	0.716611803
+increases^chemical synthesis	Omeprazole	CD9	0.716554224
+increases^import	montelukast	ACE2	0.716536939
+increases^chemical synthesis	montelukast	CD9	0.716530502
+increases^sulfation	roxatidine acetate	ACE2	0.716526508
+increases^glutathionylation	Indinavir	CD9	0.716505885
+affects^binding	Indinavir	TMPRSS11A	0.716488004
+increases^chemical synthesis	Omeprazole	TMPRSS2	0.716484427
+increases^glutathionylation	candesartan cilexetil	TIPARP	0.716483176
+affects^secretion	Atazanavir Sulfate	TMPRSS2	0.716468215
+increases^transport	Dipyridamole	TIPARP	0.716447175
+affects^reaction	montelukast	TIPARP	0.716429114
+affects^reaction	Disulfiram	ACE2	0.716404378
+affects^secretion	Cimetidine	TMPRSS11A	0.716388047
+increases^glutathionylation	Cimetidine	TMPRSS4	0.716303587
+increases^chemical synthesis	Atazanavir Sulfate	CD9	0.716296315
+affects^secretion	Atazanavir Sulfate	TIPARP	0.716283619
+increases^sulfation	Indinavir	TMPRSS2	0.716210663
+increases^glutathionylation	Cimetidine	ACE2	0.716196656
+decreases^expression	Omeprazole	DPP4	0.716194808
+increases^localization	Disulfiram	TMPRSS4	0.716168284
+increases^import	montelukast	DPP4	0.716151774
+increases^chemical synthesis	Atazanavir Sulfate	TMPRSS2	0.716146827
+decreases^cleavage	Atazanavir Sulfate	DPP4	0.716095448
+affects^secretion	Dipyridamole	DPP4	0.716042519
+increases^localization	candesartan cilexetil	CD9	0.716039538
+increases^localization	candesartan cilexetil	DPP4	0.716039419
+increases^response to substance	Indinavir	DPP4	0.716016114
+increases^sulfation	Indinavir	TMPRSS11A	0.716011405
+affects^reaction	montelukast	TMPRSS4	0.715951562
+affects^binding	Atazanavir Sulfate	TIPARP	0.71594584
+increases^glutathionylation	Atazanavir Sulfate	TMPRSS4	0.71585691
+affects^abundance	Dipyridamole	CD9	0.715846598
+increases^glutathionylation	Atazanavir Sulfate	ACE2	0.715836346
+affects^secretion	Cimetidine	TIPARP	0.715780914
+decreases^response to substance	Disulfiram	TMPRSS2	0.715744793
+increases^chemical synthesis	Cimetidine	DPP4	0.715733588
+increases^glutathionylation	Omeprazole	TMPRSS4	0.715733588
+decreases^metabolic processing	montelukast	CD9	0.715690255
+affects^reaction	Disulfiram	TMPRSS4	0.715687215
+affects^reaction	montelukast	CD9	0.715672314
+increases^response to substance	Atazanavir Sulfate	TMPRSS11A	0.715670943
+decreases^cleavage	Disulfiram	TMPRSS2	0.7156443
+increases^response to substance	roxatidine acetate	TIPARP	0.715632617
+increases^import	montelukast	TMPRSS2	0.715625048
+increases^localization	roxatidine acetate	TIPARP	0.71561873
+increases^localization	Disulfiram	TMPRSS2	0.715589046
+decreases^response to substance	candesartan cilexetil	CD9	0.715571523
+increases^import	candesartan cilexetil	TMPRSS11A	0.715569019
+increases^localization	montelukast	TIPARP	0.715566695
+increases^response to substance	roxatidine acetate	TMPRSS11A	0.715499461
+decreases^cleavage	Dipyridamole	TMPRSS2	0.715452433
+increases^transport	Dipyridamole	DPP4	0.715441048
+affects^reaction	montelukast	TMPRSS11A	0.715435088
+increases^import	roxatidine acetate	TMPRSS4	0.715412855
+affects^reaction	Dipyridamole	TIPARP	0.715399802
+increases^localization	roxatidine acetate	DPP4	0.715355158
+increases^response to substance	montelukast	TIPARP	0.715352476
+increases^chemical synthesis	Cimetidine	TMPRSS4	0.715322614
+increases^localization	roxatidine acetate	CD9	0.715312958
+decreases^response to substance	roxatidine acetate	TMPRSS2	0.715297341
+increases^response to substance	Dipyridamole	TMPRSS4	0.715277076
+increases^transport	Indinavir	DPP4	0.715253711
+affects^abundance	Dipyridamole	TMPRSS2	0.715242863
+affects^abundance	Cimetidine	CD9	0.715241015
+increases^import	Dipyridamole	ACE2	0.715221107
+increases^response to substance	roxatidine acetate	ACE2	0.715215385
+decreases^response to substance	Cimetidine	TMPRSS4	0.715205967
+affects^abundance	Dipyridamole	TMPRSS11A	0.715153158
+decreases^cleavage	roxatidine acetate	TIPARP	0.715125918
+decreases^metabolic processing	Cimetidine	TMPRSS4	0.715080321
+increases^glutathionylation	Atazanavir Sulfate	TMPRSS11A	0.714998782
+decreases^response to substance	montelukast	CD9	0.714992762
+increases^response to substance	Dipyridamole	TIPARP	0.714957893
+increases^glutathionylation	Cimetidine	TMPRSS2	0.714939952
+increases^import	Dipyridamole	TMPRSS4	0.714889765
+decreases^metabolic processing	Cimetidine	TMPRSS2	0.714877844
+increases^glutathionylation	Atazanavir Sulfate	TIPARP	0.714863658
+increases^response to substance	Dipyridamole	TMPRSS11A	0.714863539
+increases^import	roxatidine acetate	TMPRSS2	0.714856207
+affects^reaction	Dipyridamole	TMPRSS4	0.714854777
+decreases^response to substance	Disulfiram	ACE2	0.714850187
+increases^glutathionylation	montelukast	DPP4	0.714844406
+increases^localization	montelukast	DPP4	0.714841187
+affects^abundance	roxatidine acetate	TMPRSS2	0.714787781
+increases^glutathionylation	Indinavir	TMPRSS2	0.714787543
+decreases^response to substance	candesartan cilexetil	TMPRSS11A	0.714784861
+increases^cleavage	Disulfiram	CD9	0.714770973
+decreases^metabolic processing	Omeprazole	TMPRSS11A	0.714738727
+increases^response to substance	Atazanavir Sulfate	CD9	0.7147367
+increases^import	Dipyridamole	TIPARP	0.714694619
+increases^localization	candesartan cilexetil	TMPRSS11A	0.714685738
+affects^localization	candesartan cilexetil	DPP4	0.71463871
+affects^abundance	Cimetidine	TMPRSS2	0.714615762
+increases^oxidation	Indinavir	TMPRSS4	0.714609683
+decreases^abundance	candesartan cilexetil	TMPRSS4	0.714608669
+affects^reaction	Dipyridamole	CD9	0.714597702
+decreases^metabolic processing	montelukast	ACE2	0.714582264
+affects^localization	roxatidine acetate	TMPRSS2	0.714575469
+decreases^response to substance	Dipyridamole	CD9	0.714574933
+increases^localization	Omeprazole	TIPARP	0.714545012
+decreases^cleavage	Dipyridamole	ACE2	0.714487493
+increases^oxidation	Omeprazole	ACE2	0.714479327
+increases^glutathionylation	Dipyridamole	DPP4	0.714465678
+affects^localization	Indinavir	TIPARP	0.714388669
+decreases^metabolic processing	Omeprazole	TMPRSS4	0.714385033
+decreases^metabolic processing	Disulfiram	TMPRSS11A	0.714348316
+affects^transport	candesartan cilexetil	TMPRSS4	0.71434778
+affects^transport	Omeprazole	ACE2	0.714341819
+increases^import	Dipyridamole	CD9	0.714332521
+affects^abundance	candesartan cilexetil	TMPRSS2	0.714309573
+decreases^response to substance	montelukast	TIPARP	0.71427983
+decreases^metabolic processing	Disulfiram	ACE2	0.714260221
+increases^chemical synthesis	Dipyridamole	TMPRSS4	0.714239836
+increases^response to substance	candesartan cilexetil	TMPRSS11A	0.714237034
+increases^chemical synthesis	Disulfiram	TMPRSS2	0.714194834
+increases^oxidation	candesartan cilexetil	TMPRSS4	0.714188099
+increases^localization	Omeprazole	CD9	0.71417731
+increases^response to substance	candesartan cilexetil	TIPARP	0.714169562
+decreases^cleavage	montelukast	ACE2	0.714168131
+affects^chemical synthesis	roxatidine acetate	CD9	0.714164436
+decreases^response to substance	candesartan cilexetil	ACE2	0.714138031
+decreases^response to substance	montelukast	DPP4	0.714133143
+decreases^abundance	candesartan cilexetil	TMPRSS11A	0.714085758
+increases^import	Indinavir	DPP4	0.714077592
+increases^chemical synthesis	Dipyridamole	TIPARP	0.714030564
+affects^transport	candesartan cilexetil	TMPRSS11A	0.714009047
+affects^abundance	Dipyridamole	DPP4	0.713998914
+increases^glutathionylation	Cimetidine	DPP4	0.713966429
+increases^glutathionylation	Disulfiram	DPP4	0.713948488
+affects^transport	Disulfiram	TMPRSS4	0.713940322
+affects^transport	Dipyridamole	ACE2	0.713912487
+increases^import	roxatidine acetate	TMPRSS11A	0.713896573
+decreases^response to substance	Dipyridamole	TMPRSS11A	0.713892221
+decreases^response to substance	Dipyridamole	TIPARP	0.713857234
+increases^chemical synthesis	Indinavir	TMPRSS4	0.713853896
+increases^localization	Cimetidine	TMPRSS4	0.71384269
+affects^transport	Omeprazole	TMPRSS2	0.713805199
+increases^chemical synthesis	Indinavir	DPP4	0.713750362
+increases^sulfation	Disulfiram	ACE2	0.713680863
+decreases^response to substance	Dipyridamole	DPP4	0.713680208
+affects^chemical synthesis	candesartan cilexetil	TMPRSS11A	0.713660359
+affects^abundance	roxatidine acetate	DPP4	0.713647783
+increases^oxidation	montelukast	TMPRSS2	0.713640809
+increases^import	Atazanavir Sulfate	TMPRSS4	0.713621616
+decreases^abundance	roxatidine acetate	TMPRSS4	0.713617682
+affects^localization	Atazanavir Sulfate	DPP4	0.713613033
+increases^response to substance	Atazanavir Sulfate	DPP4	0.713608742
+increases^localization	Dipyridamole	TIPARP	0.713604271
+increases^glutathionylation	Indinavir	DPP4	0.713593066
+increases^sulfation	montelukast	ACE2	0.713585556
+increases^localization	Cimetidine	TMPRSS2	0.713583231
+decreases^metabolic processing	Cimetidine	DPP4	0.713578165
+increases^response to substance	Cimetidine	DPP4	0.713557601
+increases^degradation	Disulfiram	CD9	0.713557482
+increases^localization	Atazanavir Sulfate	TIPARP	0.713556409
+increases^response to substance	roxatidine acetate	DPP4	0.713507414
+affects^abundance	candesartan cilexetil	DPP4	0.713484049
+decreases^response to substance	Disulfiram	DPP4	0.713458836
+affects^localization	Cimetidine	TIPARP	0.713440359
+decreases^metabolic processing	Omeprazole	TIPARP	0.713424981
+affects^abundance	montelukast	TMPRSS2	0.71340543
+increases^cleavage	montelukast	TMPRSS2	0.713402271
+affects^localization	candesartan cilexetil	TMPRSS2	0.713373423
+affects^chemical synthesis	montelukast	CD9	0.713358641
+affects^transport	Dipyridamole	CD9	0.713288367
+increases^chemical synthesis	Disulfiram	TMPRSS11A	0.713273942
+decreases^cleavage	Omeprazole	CD9	0.713248909
+increases^import	Indinavir	CD9	0.713232458
+increases^import	Cimetidine	TIPARP	0.713200569
+affects^transport	roxatidine acetate	TIPARP	0.71313417
+affects^transport	Dipyridamole	TMPRSS2	0.713132203
+affects^phosphorylation	Disulfiram	ACE2	0.713124037
+increases^oxidation	Indinavir	TMPRSS2	0.713120461
+decreases^response to substance	Atazanavir Sulfate	CD9	0.713117421
+increases^localization	Disulfiram	TMPRSS11A	0.713115454
+affects^chemical synthesis	Dipyridamole	TMPRSS11A	0.713079333
+decreases^response to substance	montelukast	TMPRSS4	0.713071048
+increases^chemical synthesis	Disulfiram	TIPARP	0.713068604
+increases^oxidation	Disulfiram	TMPRSS4	0.713046908
+decreases^cleavage	candesartan cilexetil	DPP4	0.713045239
+increases^response to substance	Disulfiram	TMPRSS11A	0.713014781
+affects^localization	Indinavir	CD9	0.713012338
+increases^import	Atazanavir Sulfate	TMPRSS2	0.713007867
+decreases^cleavage	Cimetidine	TMPRSS4	0.712965667
+affects^transport	Cimetidine	TMPRSS11A	0.712958694
+increases^import	Cimetidine	TMPRSS2	0.712930143
+affects^transport	candesartan cilexetil	TIPARP	0.71290946
+decreases^metabolic processing	Disulfiram	TIPARP	0.71288687
+increases^oxidation	candesartan cilexetil	TMPRSS2	0.712883115
+decreases^metabolic processing	Omeprazole	DPP4	0.712870479
+affects^abundance	montelukast	TIPARP	0.712843835
+affects^localization	Indinavir	TMPRSS11A	0.712825358
+increases^oxidation	Dipyridamole	TMPRSS4	0.712821186
+decreases^cleavage	Omeprazole	TMPRSS11A	0.712819755
+decreases^metabolic processing	Dipyridamole	TMPRSS2	0.712687016
+increases^export	montelukast	TMPRSS11A	0.712662101
+decreases^metabolic processing	montelukast	DPP4	0.712643683
+increases^oxidation	Indinavir	DPP4	0.712642848
+decreases^cleavage	candesartan cilexetil	CD9	0.712629318
+increases^degradation	Disulfiram	TMPRSS4	0.712597728
+decreases^abundance	montelukast	TMPRSS11A	0.712575495
+increases^uptake	Disulfiram	ACE2	0.712565243
+affects^localization	Atazanavir Sulfate	ACE2	0.712558329
+decreases^abundance	Cimetidine	TMPRSS4	0.712538362
+increases^cleavage	roxatidine acetate	ACE2	0.712530017
+affects^chemical synthesis	Cimetidine	CD9	0.712522745
+decreases^cleavage	Dipyridamole	CD9	0.71251446
+increases^degradation	Disulfiram	TMPRSS11A	0.712487519
+decreases^cleavage	Dipyridamole	TIPARP	0.712447345
+increases^uptake	candesartan cilexetil	CD9	0.712419927
+affects^localization	Atazanavir Sulfate	TMPRSS4	0.712374568
+increases^cleavage	montelukast	TMPRSS11A	0.712366581
+affects^transport	Atazanavir Sulfate	TMPRSS2	0.712339938
+decreases^cleavage	Disulfiram	TMPRSS11A	0.712331295
+increases^cleavage	Indinavir	CD9	0.712263763
+increases^acetylation	Cimetidine	ACE2	0.712250769
+decreases^cleavage	candesartan cilexetil	TMPRSS11A	0.712217391
+decreases^cleavage	Dipyridamole	TMPRSS11A	0.712186694
+affects^localization	montelukast	ACE2	0.712169111
+increases^import	Indinavir	TMPRSS11A	0.712167382
+affects^abundance	roxatidine acetate	TMPRSS4	0.712166131
+increases^uptake	candesartan cilexetil	TMPRSS4	0.71216464
+decreases^metabolic processing	Atazanavir Sulfate	TMPRSS2	0.712130129
+increases^acetylation	Cimetidine	TMPRSS4	0.712121665
+affects^localization	Disulfiram	TIPARP	0.712117553
+increases^degradation	Disulfiram	TMPRSS2	0.712099671
+affects^localization	Atazanavir Sulfate	TMPRSS2	0.712096393
+affects^localization	montelukast	TMPRSS4	0.712095439
+affects^localization	Dipyridamole	CD9	0.712087274
+increases^import	Atazanavir Sulfate	TMPRSS11A	0.712049544
+increases^response to substance	candesartan cilexetil	TMPRSS2	0.71204555
+increases^oxidation	Omeprazole	TMPRSS2	0.712034881
+affects^abundance	montelukast	DPP4	0.711988688
+affects^localization	Atazanavir Sulfate	TMPRSS11A	0.711960554
+affects^chemical synthesis	Dipyridamole	TMPRSS4	0.711882949
+increases^export	roxatidine acetate	CD9	0.711877048
+increases^cleavage	Indinavir	TMPRSS2	0.711812615
+affects^chemical synthesis	Dipyridamole	DPP4	0.711808026
+decreases^abundance	montelukast	TIPARP	0.711805582
+affects^chemical synthesis	candesartan cilexetil	TMPRSS2	0.71178472
+increases^oxidation	Indinavir	TMPRSS11A	0.71177423
+affects^abundance	candesartan cilexetil	TMPRSS4	0.711770654
+decreases^abundance	Cimetidine	ACE2	0.711750269
+decreases^abundance	candesartan cilexetil	TMPRSS2	0.711743295
+increases^response to substance	candesartan cilexetil	DPP4	0.711741209
+decreases^abundance	candesartan cilexetil	DPP4	0.711707175
+increases^cleavage	candesartan cilexetil	CD9	0.711678147
+increases^localization	Indinavir	DPP4	0.711675227
+decreases^cleavage	montelukast	TMPRSS11A	0.711671829
+affects^phosphorylation	Omeprazole	TMPRSS11A	0.711671114
+increases^cleavage	Indinavir	TIPARP	0.711572587
+decreases^abundance	Dipyridamole	ACE2	0.711564362
+affects^localization	Omeprazole	ACE2	0.711560488
+increases^uptake	montelukast	TMPRSS4	0.711534023
+decreases^abundance	Omeprazole	ACE2	0.71153003
+affects^localization	Omeprazole	TMPRSS4	0.711482227
+increases^expression	candesartan cilexetil	TMPRSS2	0.711478949
+increases^uptake	roxatidine acetate	CD9	0.711454988
+decreases^metabolic processing	Atazanavir Sulfate	TIPARP	0.711438
+affects^chemical synthesis	Dipyridamole	ACE2	0.711431682
+affects^transport	Atazanavir Sulfate	TMPRSS11A	0.711429775
+increases^uptake	Disulfiram	CD9	0.711420059
+increases^export	montelukast	TMPRSS4	0.711394727
+increases^expression	roxatidine acetate	TMPRSS2	0.711386442
+decreases^abundance	Omeprazole	CD9	0.711373091
+affects^transport	Omeprazole	TIPARP	0.711368084
+affects^chemical synthesis	Cimetidine	TIPARP	0.711366951
+decreases^abundance	Atazanavir Sulfate	TMPRSS11A	0.711360514
+increases^ADP-ribosylation	montelukast	DPP4	0.711333632
+increases^uptake	Dipyridamole	CD9	0.711330056
+decreases^abundance	Atazanavir Sulfate	ACE2	0.711196542
+affects^localization	Omeprazole	TMPRSS11A	0.711155713
+decreases^abundance	Cimetidine	TIPARP	0.711148977
+affects^chemical synthesis	Disulfiram	CD9	0.711008072
+increases^export	Atazanavir Sulfate	CD9	0.710988045
+affects^phosphorylation	roxatidine acetate	TMPRSS11A	0.71094662
+affects^chemical synthesis	Atazanavir Sulfate	CD9	0.710898697
+increases^export	Cimetidine	ACE2	0.710887313
+increases^export	roxatidine acetate	TMPRSS4	0.710856318
+increases^export	candesartan cilexetil	ACE2	0.710808992
+decreases^response to substance	Atazanavir Sulfate	TMPRSS4	0.710792661
+affects^phosphorylation	roxatidine acetate	ACE2	0.710778058
+affects^phosphorylation	Cimetidine	TMPRSS11A	0.710773528
+increases^ADP-ribosylation	Indinavir	TIPARP	0.710769296
+increases^cleavage	candesartan cilexetil	TIPARP	0.710767925
+increases^ADP-ribosylation	candesartan cilexetil	DPP4	0.710740268
+affects^chemical synthesis	Indinavir	TMPRSS4	0.710738361
+affects^response to substance	Omeprazole	TMPRSS4	0.710728586
+affects^phosphorylation	Cimetidine	TMPRSS2	0.71068567
+increases^uptake	Dipyridamole	TMPRSS2	0.710683346
+increases^ADP-ribosylation	Dipyridamole	CD9	0.710680306
+increases^response to substance	Disulfiram	DPP4	0.710651338
+affects^response to substance	Atazanavir Sulfate	ACE2	0.710649967
+increases^ADP-ribosylation	roxatidine acetate	ACE2	0.710621119
+affects^transport	montelukast	TIPARP	0.710604608
+affects^chemical synthesis	montelukast	TMPRSS2	0.710559368
+decreases^abundance	Indinavir	ACE2	0.710556686
+affects^abundance	Disulfiram	CD9	0.710533738
+affects^localization	Disulfiram	TMPRSS11A	0.710532904
+increases^expression	candesartan cilexetil	CD9	0.710529506
+increases^cleavage	roxatidine acetate	TIPARP	0.710523248
+increases^cleavage	Dipyridamole	ACE2	0.710470438
+affects^chemical synthesis	Disulfiram	TMPRSS11A	0.710466564
+increases^acetylation	montelukast	DPP4	0.710374415
+increases^export	Dipyridamole	TMPRSS4	0.710354686
+increases^ADP-ribosylation	Indinavir	DPP4	0.710346401
+increases^ADP-ribosylation	candesartan cilexetil	TMPRSS11A	0.710281074
+affects^chemical synthesis	Indinavir	ACE2	0.710183024
+decreases^transport	Disulfiram	ACE2	0.710163772
+increases^ADP-ribosylation	Indinavir	CD9	0.710126519
+affects^transport	Atazanavir Sulfate	TIPARP	0.710090816
+increases^degradation	Cimetidine	ACE2	0.710079193
+increases^acetylation	Cimetidine	TMPRSS11A	0.710072219
+affects^abundance	Omeprazole	ACE2	0.710033476
+increases^uptake	Disulfiram	TIPARP	0.710015118
+increases^ADP-ribosylation	montelukast	TMPRSS2	0.71000725
+increases^hydroxylation	candesartan cilexetil	CD9	0.709918678
+increases^export	Atazanavir Sulfate	TMPRSS4	0.709911764
+affects^chemical synthesis	Cimetidine	TMPRSS2	0.709863961
+affects^transport	Disulfiram	DPP4	0.709851742
+increases^expression	Disulfiram	CD9	0.709831417
+affects^phosphorylation	montelukast	TMPRSS4	0.709823906
+affects^abundance	Disulfiram	TMPRSS2	0.709819973
+increases^uptake	roxatidine acetate	TIPARP	0.709753633
+increases^expression	candesartan cilexetil	TMPRSS11A	0.709729791
+increases^degradation	montelukast	TMPRSS4	0.709715962
+increases^ADP-ribosylation	Omeprazole	TMPRSS4	0.709666073
+affects^phosphorylation	Cimetidine	TMPRSS4	0.709627926
+increases^expression	roxatidine acetate	TMPRSS11A	0.709596694
+increases^oxidation	roxatidine acetate	TMPRSS2	0.709583938
+increases^export	Cimetidine	TMPRSS2	0.709550261
+affects^response to substance	Dipyridamole	TMPRSS4	0.709518135
+increases^oxidation	Disulfiram	TMPRSS11A	0.709502876
+increases^abundance	roxatidine acetate	ACE2	0.709436953
+increases^cleavage	Omeprazole	TIPARP	0.709432185
+increases^degradation	Omeprazole	TMPRSS11A	0.709412336
+increases^cleavage	Dipyridamole	CD9	0.709407091
+increases^degradation	montelukast	TMPRSS11A	0.709387302
+affects^transport	Indinavir	TMPRSS11A	0.70938617
+increases^export	montelukast	TMPRSS2	0.709364176
+increases^degradation	Omeprazole	TIPARP	0.709329545
+affects^phosphorylation	Omeprazole	TIPARP	0.709329486
+affects^chemical synthesis	Disulfiram	TMPRSS4	0.709328592
+affects^response to substance	Disulfiram	TMPRSS11A	0.709301472
+decreases^metabolic processing	Indinavir	TIPARP	0.709288299
+increases^expression	Disulfiram	TMPRSS11A	0.709267437
+increases^expression	Indinavir	TMPRSS2	0.709255934
+decreases^abundance	Cimetidine	DPP4	0.709210813
+increases^expression	montelukast	CD9	0.709201097
+affects^response to substance	Atazanavir Sulfate	TMPRSS4	0.709190905
+increases^ADP-ribosylation	Omeprazole	CD9	0.709178567
+increases^export	Indinavir	ACE2	0.709159255
+affects^transport	Omeprazole	DPP4	0.709157944
+increases^oxidation	roxatidine acetate	DPP4	0.709040701
+affects^chemical synthesis	Disulfiram	ACE2	0.708975017
+increases^abundance	roxatidine acetate	TMPRSS4	0.708964407
+increases^export	Indinavir	TIPARP	0.708960772
+increases^degradation	roxatidine acetate	TMPRSS4	0.708946049
+increases^cleavage	Atazanavir Sulfate	ACE2	0.708918929
+affects^chemical synthesis	Disulfiram	DPP4	0.708913803
+increases^oxidation	Atazanavir Sulfate	DPP4	0.708879769
+increases^degradation	roxatidine acetate	ACE2	0.708876908
+decreases^transport	Omeprazole	CD9	0.708838522
+decreases^transport	Dipyridamole	ACE2	0.708825767
+increases^export	roxatidine acetate	TMPRSS2	0.708805501
+increases^oxidation	roxatidine acetate	CD9	0.708753824
+affects^response to substance	Omeprazole	TMPRSS2	0.70868808
+increases^degradation	roxatidine acetate	TIPARP	0.708666801
+increases^uptake	Omeprazole	CD9	0.708650529
+increases^export	Omeprazole	CD9	0.708646953
+affects^phosphorylation	Dipyridamole	TMPRSS11A	0.708618164
+increases^ADP-ribosylation	Indinavir	TMPRSS2	0.708545983
+increases^expression	Omeprazole	TIPARP	0.708544254
+increases^uptake	Atazanavir Sulfate	ACE2	0.708530068
+increases^degradation	roxatidine acetate	TMPRSS11A	0.70847851
+increases^degradation	Dipyridamole	ACE2	0.708454669
+increases^uptake	Omeprazole	TMPRSS2	0.708436012
+affects^metabolic processing	Dipyridamole	ACE2	0.708410382
+affects^abundance	Disulfiram	DPP4	0.708385289
+decreases^transport	Cimetidine	ACE2	0.70838362
+affects^metabolic processing	Atazanavir Sulfate	ACE2	0.708342195
+increases^export	candesartan cilexetil	DPP4	0.708323777
+decreases^abundance	Atazanavir Sulfate	DPP4	0.708267748
+affects^phosphorylation	montelukast	TIPARP	0.708234549
+increases^export	Disulfiram	TMPRSS11A	0.708223522
+affects^metabolic processing	roxatidine acetate	ACE2	0.708219111
+increases^cleavage	Indinavir	DPP4	0.708204091
+increases^oxidation	Cimetidine	ACE2	0.708202183
+increases^cleavage	Cimetidine	ACE2	0.708156645
+increases^expression	Atazanavir Sulfate	CD9	0.708140373
+affects^abundance	Disulfiram	ACE2	0.708123088
+affects^phosphorylation	Disulfiram	DPP4	0.708087385
+affects^response to substance	Indinavir	TIPARP	0.7080791
+decreases^transport	montelukast	TMPRSS11A	0.708058715
+increases^oxidation	Atazanavir Sulfate	TMPRSS11A	0.708057702
+increases^degradation	Dipyridamole	TIPARP	0.708040297
+increases^degradation	Cimetidine	DPP4	0.708037019
+affects^metabolic processing	montelukast	TIPARP	0.707977831
+affects^phosphorylation	Atazanavir Sulfate	ACE2	0.707975864
+increases^degradation	Dipyridamole	TMPRSS11A	0.707931578
+decreases^abundance	Disulfiram	TMPRSS2	0.707927704
+increases^export	roxatidine acetate	DPP4	0.707927644
+affects^response to substance	Omeprazole	CD9	0.707890272
+increases^expression	Dipyridamole	ACE2	0.707875252
+increases^uptake	Cimetidine	TMPRSS4	0.707867503
+affects^transport	Atazanavir Sulfate	DPP4	0.70784992
+increases^acetylation	Atazanavir Sulfate	DPP4	0.707848191
+affects^response to substance	candesartan cilexetil	TMPRSS2	0.707807839
+increases^oxidation	roxatidine acetate	TMPRSS11A	0.707794905
+decreases^response to substance	Indinavir	TMPRSS4	0.707756341
+decreases^abundance	Indinavir	DPP4	0.70768106
+affects^response to substance	Dipyridamole	TIPARP	0.707680464
+affects^phosphorylation	Atazanavir Sulfate	TMPRSS2	0.707658052
+increases^degradation	Indinavir	ACE2	0.70764637
+increases^ADP-ribosylation	Atazanavir Sulfate	TMPRSS4	0.707643926
+increases^cleavage	Dipyridamole	TMPRSS11A	0.707630277
+increases^expression	Indinavir	TMPRSS11A	0.70761472
+increases^ADP-ribosylation	Atazanavir Sulfate	DPP4	0.707448721
+increases^acetylation	Omeprazole	ACE2	0.707435489
+increases^acetylation	Atazanavir Sulfate	ACE2	0.707428575
+increases^glucuronidation	Dipyridamole	ACE2	0.707407296
+increases^hydroxylation	candesartan cilexetil	TMPRSS4	0.707394481
+affects^folding	Cimetidine	CD9	0.707364321
+increases^expression	Atazanavir Sulfate	TMPRSS11A	0.707342863
+increases^degradation	candesartan cilexetil	DPP4	0.707315385
+increases^uptake	Atazanavir Sulfate	TMPRSS11A	0.707309484
+increases^acetylation	Cimetidine	TMPRSS2	0.707268715
+increases^ADP-ribosylation	Atazanavir Sulfate	CD9	0.707234025
+affects^response to substance	Dipyridamole	TMPRSS2	0.707184851
+increases^uptake	Indinavir	TMPRSS4	0.707059145
+affects^phosphorylation	Indinavir	ACE2	0.707053363
+decreases^transport	Cimetidine	TMPRSS11A	0.707043767
+increases^ADP-ribosylation	Atazanavir Sulfate	TMPRSS11A	0.707032681
+increases^expression	Atazanavir Sulfate	TIPARP	0.707031667
+affects^response to substance	candesartan cilexetil	CD9	0.707009375
+increases^expression	Cimetidine	TMPRSS4	0.707005858
+increases^uptake	Atazanavir Sulfate	TMPRSS2	0.706983864
+affects^metabolic processing	Omeprazole	ACE2	0.706980526
+increases^uptake	Omeprazole	TIPARP	0.706908286
+increases^expression	montelukast	DPP4	0.70688045
+decreases^transport	Dipyridamole	TMPRSS11A	0.70687294
+increases^glucuronidation	Disulfiram	TMPRSS4	0.706800103
+increases^hydroxylation	Omeprazole	CD9	0.706734776
+affects^response to substance	Atazanavir Sulfate	TMPRSS2	0.706722796
+decreases^transport	montelukast	TMPRSS4	0.70665139
+affects^phosphorylation	roxatidine acetate	DPP4	0.70662868
+increases^cleavage	Atazanavir Sulfate	TIPARP	0.706542492
+affects^response to substance	Indinavir	TMPRSS11A	0.706528902
+increases^export	Indinavir	DPP4	0.706500649
+affects^response to substance	montelukast	TMPRSS11A	0.706488311
+decreases^transport	roxatidine acetate	TMPRSS11A	0.706458807
+increases^hydroxylation	Dipyridamole	CD9	0.706453502
+affects^metabolic processing	roxatidine acetate	DPP4	0.706406057
+increases^expression	Dipyridamole	TMPRSS4	0.706376791
+affects^phosphorylation	candesartan cilexetil	DPP4	0.706286669
+affects^response to substance	Dipyridamole	CD9	0.706285357
+affects^response to substance	Dipyridamole	TMPRSS11A	0.706281364
+affects^metabolic processing	roxatidine acetate	TIPARP	0.706158817
+affects^response to substance	roxatidine acetate	CD9	0.706152201
+increases^abundance	candesartan cilexetil	CD9	0.706137478
+increases^degradation	Dipyridamole	DPP4	0.706117749
+affects^metabolic processing	Dipyridamole	TMPRSS4	0.706090868
+affects^response to substance	roxatidine acetate	TMPRSS11A	0.706086457
+affects^phosphorylation	Dipyridamole	TIPARP	0.706058502
+affects^response to substance	Atazanavir Sulfate	DPP4	0.705977678
+increases^acetylation	Omeprazole	TIPARP	0.705949306
+increases^hydroxylation	Cimetidine	CD9	0.705934227
+increases^glucuronidation	Disulfiram	TMPRSS11A	0.705926299
+affects^metabolic processing	candesartan cilexetil	TIPARP	0.705908
+affects^metabolic processing	candesartan cilexetil	DPP4	0.705887437
+affects^folding	montelukast	CD9	0.705882549
+affects^folding	candesartan cilexetil	CD9	0.705872059
+affects^phosphorylation	Indinavir	TMPRSS4	0.70586437
+affects^metabolic processing	Atazanavir Sulfate	TMPRSS4	0.705810428
+increases^uptake	Atazanavir Sulfate	TIPARP	0.705791116
+increases^glucuronidation	Omeprazole	ACE2	0.705750465
+increases^expression	Dipyridamole	TMPRSS11A	0.705700934
+increases^uptake	Cimetidine	DPP4	0.705663502
+decreases^transport	Dipyridamole	TMPRSS4	0.705645323
+increases^glucuronidation	roxatidine acetate	TMPRSS4	0.705630183
+increases^export	Disulfiram	TIPARP	0.7056005
+decreases^phosphorylation	Indinavir	TMPRSS2	0.705476344
+affects^phosphorylation	Atazanavir Sulfate	TIPARP	0.705465138
+increases^cleavage	Omeprazole	DPP4	0.705417216
+decreases^phosphorylation	Cimetidine	TMPRSS2	0.70534265
+increases^hydroxylation	Atazanavir Sulfate	TMPRSS11A	0.705183804
+increases^ADP-ribosylation	Cimetidine	TIPARP	0.705151677
+increases^acetylation	montelukast	TMPRSS2	0.705150545
+increases^glucuronidation	roxatidine acetate	CD9	0.705148339
+increases^cleavage	Cimetidine	TMPRSS11A	0.705132604
+decreases^transport	candesartan cilexetil	TMPRSS2	0.705080509
+decreases^transport	candesartan cilexetil	TMPRSS4	0.705045164
+increases^hydroxylation	montelukast	TMPRSS4	0.705044389
+increases^acetylation	Indinavir	TIPARP	0.705037117
+decreases^phosphorylation	Cimetidine	CD9	0.705025196
+increases^acetylation	Disulfiram	ACE2	0.705001652
+increases^hydroxylation	Disulfiram	CD9	0.704984248
+affects^metabolic processing	Omeprazole	DPP4	0.704982638
+decreases^phosphorylation	roxatidine acetate	TMPRSS2	0.704954445
+increases^acetylation	Dipyridamole	TIPARP	0.704921484
+increases^ADP-ribosylation	Cimetidine	TMPRSS4	0.704873383
+decreases^phosphorylation	Cimetidine	TMPRSS11A	0.704872072
+increases^hydroxylation	montelukast	ACE2	0.704850972
+increases^abundance	Cimetidine	ACE2	0.704698026
+increases^ADP-ribosylation	Cimetidine	DPP4	0.704671741
+increases^hydroxylation	Disulfiram	TMPRSS11A	0.704661787
+increases^hydroxylation	candesartan cilexetil	DPP4	0.704625189
+increases^abundance	Disulfiram	TMPRSS11A	0.704613388
+increases^ADP-ribosylation	Cimetidine	TMPRSS11A	0.704580903
+increases^acetylation	Indinavir	TMPRSS11A	0.704548478
+increases^oxidation	Cimetidine	CD9	0.704454184
+decreases^phosphorylation	candesartan cilexetil	TMPRSS2	0.704444468
+increases^acetylation	Dipyridamole	TMPRSS11A	0.704411507
+increases^hydrolysis	Disulfiram	ACE2	0.704380333
+increases^glucuronidation	Indinavir	ACE2	0.704379439
+increases^phosphorylation	Cimetidine	CD9	0.704297245
+decreases^phosphorylation	Indinavir	TIPARP	0.704250574
+increases^abundance	Cimetidine	TMPRSS4	0.70421195
+increases^abundance	Dipyridamole	TMPRSS11A	0.704158187
+affects^expression	roxatidine acetate	CD9	0.704136431
+increases^glucuronidation	montelukast	TMPRSS2	0.704091728
+increases^glucuronidation	montelukast	TIPARP	0.704084098
+increases^glucuronidation	roxatidine acetate	TIPARP	0.704016089
+decreases^phosphorylation	Atazanavir Sulfate	TMPRSS2	0.704015851
+increases^hydroxylation	Atazanavir Sulfate	TMPRSS2	0.704014122
+affects^folding	roxatidine acetate	TMPRSS2	0.704007208
+increases^glucuronidation	Cimetidine	TMPRSS4	0.703994095
+decreases^sumoylation	roxatidine acetate	TMPRSS11A	0.703979015
+increases^expression	Dipyridamole	DPP4	0.703961134
+increases^abundance	Omeprazole	TMPRSS2	0.703930259
+affects^folding	candesartan cilexetil	TMPRSS11A	0.703908741
+decreases^sumoylation	roxatidine acetate	TIPARP	0.703868866
+affects^folding	montelukast	TMPRSS2	0.703856111
+affects^metabolic processing	Cimetidine	ACE2	0.703765988
+increases^abundance	Disulfiram	CD9	0.703760862
+affects^folding	Atazanavir Sulfate	CD9	0.703736663
+affects^expression	Dipyridamole	CD9	0.703706264
+decreases^transport	Indinavir	TMPRSS4	0.703689456
+affects^folding	candesartan cilexetil	TMPRSS2	0.703687787
+increases^hydroxylation	roxatidine acetate	TMPRSS4	0.703593135
+increases^phosphorylation	Disulfiram	CD9	0.703591764
+decreases^phosphorylation	Atazanavir Sulfate	CD9	0.703576863
+affects^folding	Dipyridamole	TMPRSS2	0.70354718
+increases^glucuronidation	Cimetidine	TMPRSS11A	0.703392148
+increases^hydroxylation	Indinavir	TIPARP	0.703364551
+decreases^transport	Cimetidine	TIPARP	0.703328431
+increases^hydroxylation	Omeprazole	TIPARP	0.703274488
+increases^hydroxylation	Dipyridamole	ACE2	0.703231454
+affects^folding	roxatidine acetate	ACE2	0.703153372
+affects^expression	Disulfiram	ACE2	0.70311445
+decreases^transport	Indinavir	TMPRSS2	0.703065813
+increases^abundance	Omeprazole	CD9	0.702976346
+increases^acetylation	Disulfiram	TIPARP	0.702972889
+increases^phosphorylation	Cimetidine	TMPRSS2	0.702927291
+increases^abundance	Dipyridamole	TMPRSS4	0.702854455
+affects^folding	Omeprazole	ACE2	0.702840269
+increases^reaction	Omeprazole	TMPRSS2	0.702827334
+decreases^uptake	Disulfiram	TMPRSS2	0.702803075
+affects^expression	Disulfiram	TIPARP	0.702757955
+affects^folding	candesartan cilexetil	ACE2	0.702716768
+increases^phosphorylation	Cimetidine	TMPRSS11A	0.702676833
+affects^expression	Cimetidine	TMPRSS11A	0.702609658
+increases^glucuronidation	Atazanavir Sulfate	TMPRSS4	0.702608347
+increases^reaction	candesartan cilexetil	TMPRSS4	0.702586293
+increases^glucuronidation	montelukast	DPP4	0.702515662
+decreases^phosphorylation	Atazanavir Sulfate	ACE2	0.702461123
+increases^abundance	Omeprazole	ACE2	0.702458084
+increases^acetylation	Disulfiram	CD9	0.702431262
+affects^folding	roxatidine acetate	TIPARP	0.702404022
+affects^expression	roxatidine acetate	TMPRSS11A	0.702377319
+decreases^phosphorylation	Dipyridamole	TMPRSS4	0.702374399
+increases^hydroxylation	Disulfiram	TMPRSS4	0.70233351
+decreases^phosphorylation	candesartan cilexetil	DPP4	0.70228678
+increases^abundance	montelukast	TMPRSS4	0.70228231
+increases^hydrolysis	candesartan cilexetil	ACE2	0.702277184
+increases^reaction	montelukast	CD9	0.702243805
+increases^hydrolysis	Cimetidine	TMPRSS4	0.702222466
+increases^phosphorylation	Disulfiram	TMPRSS2	0.702214122
+increases^hydrolysis	Cimetidine	TMPRSS11A	0.702182114
+increases^abundance	Cimetidine	DPP4	0.702176213
+affects^expression	montelukast	TMPRSS11A	0.702109158
+decreases^phosphorylation	Disulfiram	TMPRSS2	0.702077806
+increases^hydrolysis	Cimetidine	TMPRSS2	0.702073038
+affects^expression	Atazanavir Sulfate	CD9	0.702028096
+increases^glucuronidation	Indinavir	TMPRSS11A	0.702013791
+increases^glucuronidation	Atazanavir Sulfate	CD9	0.702012122
+increases^abundance	Omeprazole	TMPRSS4	0.702000558
+decreases^phosphorylation	Omeprazole	ACE2	0.701956809
+affects^expression	montelukast	TMPRSS2	0.701933622
+affects^metabolic processing	Atazanavir Sulfate	TMPRSS2	0.701915324
+increases^reaction	Dipyridamole	TMPRSS11A	0.701797366
+affects^folding	Dipyridamole	TIPARP	0.701792121
+decreases^phosphorylation	Atazanavir Sulfate	DPP4	0.701757133
+increases^abundance	Cimetidine	TIPARP	0.701751292
+increases^phosphorylation	candesartan cilexetil	TMPRSS2	0.70169878
+increases^hydroxylation	montelukast	DPP4	0.701676965
+decreases^phosphorylation	Disulfiram	CD9	0.701643229
+decreases^sumoylation	candesartan cilexetil	TMPRSS4	0.70163101
+increases^O-linked glycosylation	montelukast	ACE2	0.701584578
+decreases^phosphorylation	Disulfiram	TMPRSS11A	0.701579869
+decreases^phosphorylation	montelukast	TMPRSS4	0.701545298
+affects^metabolic processing	candesartan cilexetil	CD9	0.701521575
+affects^metabolic processing	candesartan cilexetil	TMPRSS11A	0.701450765
+increases^phosphorylation	candesartan cilexetil	TMPRSS11A	0.701435626
+increases^reduction	montelukast	CD9	0.701361895
+increases^glucuronidation	Cimetidine	DPP4	0.701334357
+increases^phosphorylation	roxatidine acetate	CD9	0.701329648
+affects^metabolic processing	roxatidine acetate	TMPRSS11A	0.701322496
+affects^expression	candesartan cilexetil	TMPRSS2	0.701309562
+affects^expression	roxatidine acetate	ACE2	0.701305091
+increases^reaction	Indinavir	CD9	0.70129025
+increases^phosphorylation	Cimetidine	DPP4	0.701261222
+increases^glucuronidation	Indinavir	TIPARP	0.701206744
+increases^phosphorylation	Dipyridamole	CD9	0.701186478
+increases^reaction	roxatidine acetate	CD9	0.701172888
+increases^abundance	Disulfiram	DPP4	0.701163411
+increases^reaction	montelukast	TMPRSS2	0.701153636
+affects^metabolic processing	Dipyridamole	TMPRSS11A	0.701148272
+affects^expression	roxatidine acetate	TMPRSS4	0.701092422
+increases^glucuronidation	Atazanavir Sulfate	TMPRSS2	0.701037526
+affects^expression	montelukast	ACE2	0.701005042
+increases^reaction	Cimetidine	CD9	0.700956047
+increases^reduction	candesartan cilexetil	TMPRSS4	0.700915754
+increases^reaction	montelukast	ACE2	0.700912714
+affects^metabolic processing	Omeprazole	TMPRSS2	0.700908661
+decreases^sumoylation	Omeprazole	TMPRSS2	0.700907826
+increases^phosphorylation	Omeprazole	TMPRSS4	0.700901687
+affects^folding	Atazanavir Sulfate	ACE2	0.700823903
+increases^phosphorylation	montelukast	CD9	0.700806797
+increases^hydrolysis	candesartan cilexetil	TMPRSS2	0.700778723
+decreases^sumoylation	montelukast	DPP4	0.70074743
+affects^folding	Indinavir	TMPRSS2	0.700712204
+decreases^uptake	candesartan cilexetil	TMPRSS2	0.700683594
+increases^acetylation	Indinavir	TMPRSS2	0.700665057
+affects^expression	Omeprazole	TIPARP	0.700653255
+increases^O-linked glycosylation	Omeprazole	TMPRSS4	0.700609028
+increases^reaction	Dipyridamole	TIPARP	0.700596094
+decreases^uptake	Disulfiram	CD9	0.700553477
+decreases^phosphorylation	montelukast	DPP4	0.700518966
+increases^phosphorylation	Atazanavir Sulfate	TMPRSS2	0.700461745
+affects^expression	candesartan cilexetil	ACE2	0.700453639
+affects^expression	Omeprazole	TMPRSS4	0.700412095
+increases^acetylation	Dipyridamole	TMPRSS2	0.700402915
+increases^abundance	Atazanavir Sulfate	CD9	0.700324595
+affects^methylation	montelukast	ACE2	0.700282216
+increases^hydrolysis	roxatidine acetate	DPP4	0.700242221
+decreases^uptake	candesartan cilexetil	ACE2	0.700236559
+increases^reduction	roxatidine acetate	CD9	0.700226426
+increases^hydrolysis	Dipyridamole	TMPRSS2	0.700203896
+decreases^sumoylation	Omeprazole	TIPARP	0.70019865
+decreases^uptake	Disulfiram	TMPRSS11A	0.700189829
+decreases^sumoylation	Cimetidine	DPP4	0.700149059
+affects^metabolic processing	Omeprazole	TMPRSS11A	0.700148821
+decreases^transport	Dipyridamole	DPP4	0.700084507
+increases^reaction	Indinavir	TMPRSS2	0.700070441
+increases^reduction	candesartan cilexetil	DPP4	0.700039983
+increases^phosphorylation	Disulfiram	DPP4	0.700016081
+decreases^sumoylation	Dipyridamole	TMPRSS2	0.700009525
+increases^glucuronidation	Indinavir	DPP4	0.700007319
