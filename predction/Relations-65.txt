@@ -1,0 +1,68 @@
+affects^abundance
+affects^activity
+affects^binding
+affects^chemical synthesis
+affects^cotreatment
+affects^export
+affects^expression
+affects^folding
+affects^localization
+affects^metabolic processing
+affects^methylation
+affects^phosphorylation
+affects^reaction
+affects^response to substance
+affects^secretion
+affects^splicing
+affects^transport
+decreases^abundance
+decreases^acetylation
+decreases^activity
+decreases^chemical synthesis
+decreases^cleavage
+decreases^degradation
+decreases^expression
+decreases^localization
+decreases^metabolic processing
+decreases^methylation
+decreases^phosphorylation
+decreases^reaction
+decreases^response to substance
+decreases^secretion
+decreases^sumoylation
+decreases^transport
+decreases^uptake
+increases^abundance
+increases^acetylation
+increases^activity
+increases^ADP-ribosylation
+increases^chemical synthesis
+increases^cleavage
+increases^degradation
+increases^export
+increases^expression
+increases^glucuronidation
+increases^glutathionylation
+increases^hydrolysis
+increases^hydroxylation
+increases^import
+increases^localization
+increases^metabolic processing
+increases^methylation
+increases^mutagenesis
+increases^O-linked glycosylation
+increases^oxidation
+increases^phosphorylation
+increases^reaction
+increases^reduction
+increases^response to substance
+increases^secretion
+increases^stability
+increases^sulfation
+increases^sumoylation
+increases^transport
+increases^ubiquitination
+increases^uptake
+
+
+
