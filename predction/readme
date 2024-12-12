@@ -1,1 +1,54 @@
+This folder is specifically used for BioNet's predictions. You can predict related chemicals based on selected genes, or predict related genes based on related chemicals.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.Data preparation
+###############################################
+1.1 Data download: 
+cd data/raw-data:
+1.1.1. cd ctd-data-all, Please download data from https://ctdbase.org/
+including：
+CTD_chem_gene_ixns.csv
+CTD_chem_pathways_enriched.csv
+CTD_genes_pathways.csv
 
+1.1.2. cd decagon-data,Please download data from https://paperswithcode.com/dataset/decagon
+including：
+bio-decagon-combo.csv
+bio-decagon-effectcategories.csv
+bio-decagon-mono.csv
+bio-decagon-ppi.csv
+bio-decagon-targets.csv
+bio-decagon-targets-all.csv
+
+1.1.3. cd stitch-data-all, Please download data from http://stitch.embl.de/
+including：
+chemical_chemical.links.v5.0.tsv 
+
+###############################################
+1.2 Unified data numbering:
+1.2.1. cd data/raw-data/ctd-data-all
+   python chem2cid.py
+###############################################
+1.3 Data format conversion:
+1.3.1 cd dta/raw-pkl
+   python generate_data-txt.py
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2. Test data preparation
+####################################################################################
+2.1. Test data construction
+cd src
+  chemical: python get_chem_txt.py
+  gene: get_disease_txt.py
+##############################################################################
+2.2. Test data construction
+   python generate_prediction-txt.py
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3. Prediction
+##############################################################################
+3.1. Graph Construction
+python step_1_cycle.py
+##############################################################################
+3.2. Result
+python step_2_test.py
