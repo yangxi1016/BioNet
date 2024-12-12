@@ -1,0 +1,13 @@
+Chemicals are derived from PubChem. As described in the STITCH paper,
+we merge salt forms and isomers. However, since STITCH 3, isomeric
+compounds can also be investigated separately. In the download files,
+the following convention holds:
+
+CIDs / CID0... - this is a stereo-specific compound, and the suffix is the
+PubChem compound id.
+
+CIDm / CID1... - this is a "flat" compound, i.e. with merged stereo-isomers
+The suffix (without the leading "1") is the PubChem compound id.
+
+(Note that the download files contain the prefixes CIDs/CIDm, while the API
+still returns CID0/CID1.)
