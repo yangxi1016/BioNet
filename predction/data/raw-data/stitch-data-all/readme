@@ -1,3 +1,7 @@
+Please download data from http://stitch.embl.de/
+including：
+chemical_chemical.links.v5.0.tsv
+
 Chemicals are derived from PubChem. As described in the STITCH paper,
 we merge salt forms and isomers. However, since STITCH 3, isomeric
 compounds can also be investigated separately. In the download files,
