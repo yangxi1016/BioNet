@@ -1,0 +1,80 @@
+Please download data from https://ctdbase.org/
+including：
+CTD_chem_gene_ixns.csv
+CTD_chem_pathways_enriched.csv
+CTD_genes_pathways.csv
+
+
+
+CTD_chem_gene_ixns.csv:
+ChemicalName,ChemicalID,CasRN,GeneSymbol,GeneID,GeneForms,Organism,OrganismID,Interaction,InteractionActions,PubMedIDs
+10074-G5,C534883,,MAX,4149,protein,,,10074-G5 affects the folding of and results in decreased activity of [MYC protein binds to MAX protein],affects^binding|affects^folding|decreases^activity,26474287
+
+
+CTD_genes_pathways.csv:
+GeneSymbol,GeneID,PathwayName,PathwayID
+A1BG,1,Hemostasis,REACT:R-HSA-109582
+
+
+CTD_chem_pathways_enriched.csv:
+ChemicalName,ChemicalID,CasRN,PathwayName,PathwayID,PValue,CorrectedPValue,TargetMatchQty,TargetTotalQty,BackgroundMatchQty,BackgroundTotalQty
+10074-G5,C534883,,"Cell Cycle, Mitotic",REACT:R-HSA-69278,1.40e-04,9.08e-03,2,2,514,43449
+
+
+
+# Fields:
+# TypeName,Code,Description,ParentCode
+#
+abundance,abu,The abundance of a chemical (if chemical synthesis is not known).,
+activity,act,An elemental function of a molecule.,
+binding,b,A molecular interaction.,
+cotreatment,w,Involving the use of two or more chemicals simultaneously.,
+expression,exp,The expression of a gene product.,
+folding,fol,The bending and positioning of a molecule to achieve conformational integrity.,
+localization,loc,Part of the cell where a molecule resides.,
+metabolic processing,met,"The biochemical alteration of a molecule's structure (does not include changes in expression, stability, folding, localization, splicing, or transport).",
+acetylation,ace,The addition of an acetyl group.,met
+acylation,acy,The addition of an acyl group.,met
+alkylation,alk,The addition of an alkyl group.,met
+amination,ami,The addition of an amine group.,met
+carbamoylation,car,The addition of a carbamoyl group.,met
+carboxylation,cox,The addition of a carboxyl group.,met
+chemical synthesis,csy,A biochemical event resulting in a new chemical product.,met
+degradation,deg,Catabolism or breakdown.,met
+cleavage,clv,"The processing or splitting of a molecule, not necessarily leading to the destruction of the molecule.",deg
+hydrolysis,hyd,The splitting of a molecule via the specific use of water.,clv
+ethylation,eth,The addition of an ethyl group.,met
+glutathionylation,glt,The addition of a glutathione group.,met
+glycation,gyc,The non-enzymatic addition of a sugar.,met
+glycosylation,gly,The addition of a sugar group.,met
+glucuronidation,glc,"The addition of a sugar group to form a glucuronide, typically part of an inactivating or detoxifying reaction.",gly
+N-linked glycosylation,ngl,The addition of a sugar group to an amide nitrogen.,gly
+O-linked glycosylation,ogl,The addition of a sugar group to a hydroxyl group.,gly
+hydroxylation,hdx,The addition of a hydroxy group.,met
+lipidation,lip,The addition of a lipid group.,met
+farnesylation,far,The addition of a farnesyl group.,lip
+geranoylation,ger,The addition of a geranoyl group.,lip
+myristoylation,myr,The addition of a myristoyl group.,lip
+palmitoylation,pal,The addition of a palmitoyl group.,lip
+prenylation,pre,The addition of a prenyl group.,lip
+methylation,myl,The addition of a methyl group.,met
+nitrosation,nit,The addition of a nitroso or nitrosyl group.,met
+nucleotidylation,nuc,The addition of a nucleotidyl group.,met
+oxidation,oxd,The loss of electrons.,met
+phosphorylation,pho,The addition of a phosphate group.,met
+reduction,red,The gain of electrons.,met
+ribosylation,rib,The addition of a ribosyl group.,met
+ADP-ribosylation,arb,The addition of a ADP-ribosyl group.,rib
+sulfation,sul,The addition of a sulfate group.,met
+sumoylation,sum,The addition of a SUMO group.,met
+ubiquitination,ubq,The addition of an ubiquitin group.,met
+mutagenesis,mut,The genetic alteration of a gene product.,
+reaction,rxn,Any general biochemical or molecular event.,
+response to substance,rec,Resistance or sensitivity to a substance.,
+splicing,spl,The removal of introns to generate mRNA.,
+stability,sta,Overall molecular integrity.,
+transport,trt,The movement of a molecule into or out of a cell.,
+secretion,sec,The movement of a molecule out of a cell (by less specific means than export).,trt
+export,ext,The movement of a molecule out of a cell (by more specific means than secretion).,sec
+uptake,upt,The movement of a molecule into a cell (by less specific means than import).,trt
+import,imt,The movement of a molecule into a cell (by more specific means than uptake).,upt
